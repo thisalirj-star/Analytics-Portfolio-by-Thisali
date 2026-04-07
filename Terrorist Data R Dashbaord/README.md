@@ -38,6 +38,9 @@ Key Steps:
   - fatality_severity
 - Combined date fields into a proper Date format
 
+View Dashbaord:
+https://thisali-rj.shinyapps.io/Terrorist_Dashboard/
+
 Dashboard Features
 
 The dashboard is divided into four main sections:
