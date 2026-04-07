@@ -12,6 +12,9 @@ The dataset was obtained from Kaggle and includes key attributes such as:
 
 Due to file size limitations, a sample dataset is included along with a compressed version of the full dataset.
 
+View Dashbaord :
+https://app.powerbi.com/view?r=eyJrIjoiNDNhNDY3M2EtMjJjZi00OTFiLWI2NWUtYjBhYTA5MGEyY2YyIiwidCI6ImFhYzBjNTY0LTZjNWUtNGIwNS04ZGMzLTQwODA4N2Y3N2Y3NiIsImMiOjEwfQ%3D%3D
+
 Dashboard Features
 The Power BI dashboard consists of five main analytical pages:
 
